@@ -1,0 +1,151 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Volumes/DD Interno/Android Java/Aplicacionembebida/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Volumes/DD Interno/Android Java/Aplicacionembebida/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Volumes/DD Interno/Android Java/Aplicacionembebida/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Volumes/DD Interno/Android Java/Aplicacionembebida/app/src/main/AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha3] /Users/henryfernandez/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-alpha3.aar/d4b113172b167e217fc3fead5717c8b6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/henryfernandez/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/562f562d4c1be462efd04d5ec7365428/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0-alpha3] /Users/henryfernandez/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-alpha3.aar/d46e4467c1c0f74ae9c75e2c7368b03f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha3] /Users/henryfernandez/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0-alpha3.aar/191e4b2d41591327aa02f12da8cb64ee/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha3] /Users/henryfernandez/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0-alpha3.aar/78cef264daf3737101ac7afa500b9811/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha3] /Users/henryfernandez/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0-alpha3.aar/0341c9a85d6dd65d94fbec1f0920289d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha3] /Users/henryfernandez/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0-alpha3.aar/26d71423da1a526decc4cf73f391a94f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0-alpha3] /Users/henryfernandez/.gradle/caches/transforms-1/files-1.1/loader-28.0.0-alpha3.aar/ef0e9702e957e97db4d9ee9cc872d7c5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0-alpha3] /Users/henryfernandez/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0-alpha3.aar/e6666132c9c8c7992bf59def5b956636/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha3] /Users/henryfernandez/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0-alpha3.aar/a3bd1799b5b704747f641e8aa298e703/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha3] /Users/henryfernandez/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0-alpha3.aar/aed6dba4ef5a472313051adeb0bb7000/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha3] /Users/henryfernandez/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0-alpha3.aar/ee0f092da4e95890cb83db73d7243e3f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0-alpha3] /Users/henryfernandez/.gradle/caches/transforms-1/files-1.1/customview-28.0.0-alpha3.aar/fe995c4f18ab4d5ac43447dbbbd35a0d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha3] /Users/henryfernandez/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0-alpha3.aar/56b5337d4fd569f00f84efc609ce958e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha3] /Users/henryfernandez/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0-alpha3.aar/6adc619f358a1fd354bf5c3ec8dd8ba9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0-alpha3] /Users/henryfernandez/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-alpha3.aar/baba060afcaf4d520d4033fcdc1696e1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha3] /Users/henryfernandez/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0-alpha3.aar/47f8c045529892f14c7284f23173b3e1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/henryfernandez/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/bd517c4ac7df85ed975e18e7aecd10db/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:versionedparcelable:28.0.0-alpha3] /Users/henryfernandez/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-alpha3.aar/23ec74fa65a572d9d5a71007c467a103/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:documentfile:28.0.0-alpha3] /Users/henryfernandez/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0-alpha3.aar/7730c593ffbe5eb257e559dde327672a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha3] /Users/henryfernandez/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0-alpha3.aar/1948fe6f9728cc92201e8d81a81b72a3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0-alpha3] /Users/henryfernandez/.gradle/caches/transforms-1/files-1.1/print-28.0.0-alpha3.aar/24286b4ec052fe60c7533d41231e086b/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/henryfernandez/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/fc34d35bf45450861d8821a8126d7657/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/henryfernandez/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/1f5a008b30e50797a1c2572dd32f0c8f/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/henryfernandez/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/8ac8899de129ac06449954c19e58210b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0-alpha3] /Users/henryfernandez/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0-alpha3.aar/b2a78a447f002913208d2d7672a4062d/AndroidManifest.xml:17:1-22:12
+INJECTED from /Volumes/DD Interno/Android Java/Aplicacionembebida/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Volumes/DD Interno/Android Java/Aplicacionembebida/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Volumes/DD Interno/Android Java/Aplicacionembebida/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /Volumes/DD Interno/Android Java/Aplicacionembebida/app/src/main/AndroidManifest.xml:3:5-53
+		INJECTED from /Volumes/DD Interno/Android Java/Aplicacionembebida/app/src/main/AndroidManifest.xml
+		INJECTED from /Volumes/DD Interno/Android Java/Aplicacionembebida/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Volumes/DD Interno/Android Java/Aplicacionembebida/app/src/main/AndroidManifest.xml
+		ADDED from /Volumes/DD Interno/Android Java/Aplicacionembebida/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Volumes/DD Interno/Android Java/Aplicacionembebida/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Volumes/DD Interno/Android Java/Aplicacionembebida/app/src/main/AndroidManifest.xml
+		ADDED from /Volumes/DD Interno/Android Java/Aplicacionembebida/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Volumes/DD Interno/Android Java/Aplicacionembebida/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Volumes/DD Interno/Android Java/Aplicacionembebida/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Volumes/DD Interno/Android Java/Aplicacionembebida/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/henryfernandez/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/562f562d4c1be462efd04d5ec7365428/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/henryfernandez/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/562f562d4c1be462efd04d5ec7365428/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0-alpha3] /Users/henryfernandez/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-alpha3.aar/baba060afcaf4d520d4033fcdc1696e1/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0-alpha3] /Users/henryfernandez/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-alpha3.aar/baba060afcaf4d520d4033fcdc1696e1/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0-alpha3] /Users/henryfernandez/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-alpha3.aar/23ec74fa65a572d9d5a71007c467a103/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0-alpha3] /Users/henryfernandez/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-alpha3.aar/23ec74fa65a572d9d5a71007c467a103/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0-alpha3] /Users/henryfernandez/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-alpha3.aar/baba060afcaf4d520d4033fcdc1696e1/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /Volumes/DD Interno/Android Java/Aplicacionembebida/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /Volumes/DD Interno/Android Java/Aplicacionembebida/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /Volumes/DD Interno/Android Java/Aplicacionembebida/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /Volumes/DD Interno/Android Java/Aplicacionembebida/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /Volumes/DD Interno/Android Java/Aplicacionembebida/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Volumes/DD Interno/Android Java/Aplicacionembebida/app/src/main/AndroidManifest.xml:11:9-40
+activity#comercializadora_s3.aplicacionembebida.MainActivity
+ADDED from /Volumes/DD Interno/Android Java/Aplicacionembebida/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /Volumes/DD Interno/Android Java/Aplicacionembebida/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Volumes/DD Interno/Android Java/Aplicacionembebida/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /Volumes/DD Interno/Android Java/Aplicacionembebida/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /Volumes/DD Interno/Android Java/Aplicacionembebida/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Volumes/DD Interno/Android Java/Aplicacionembebida/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /Volumes/DD Interno/Android Java/Aplicacionembebida/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /Volumes/DD Interno/Android Java/Aplicacionembebida/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Volumes/DD Interno/Android Java/Aplicacionembebida/app/src/main/AndroidManifest.xml
+INJECTED from /Volumes/DD Interno/Android Java/Aplicacionembebida/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha3] /Users/henryfernandez/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-alpha3.aar/d4b113172b167e217fc3fead5717c8b6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha3] /Users/henryfernandez/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-alpha3.aar/d4b113172b167e217fc3fead5717c8b6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/henryfernandez/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/562f562d4c1be462efd04d5ec7365428/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/henryfernandez/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/562f562d4c1be462efd04d5ec7365428/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0-alpha3] /Users/henryfernandez/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-alpha3.aar/d46e4467c1c0f74ae9c75e2c7368b03f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0-alpha3] /Users/henryfernandez/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-alpha3.aar/d46e4467c1c0f74ae9c75e2c7368b03f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha3] /Users/henryfernandez/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0-alpha3.aar/191e4b2d41591327aa02f12da8cb64ee/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha3] /Users/henryfernandez/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0-alpha3.aar/191e4b2d41591327aa02f12da8cb64ee/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha3] /Users/henryfernandez/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0-alpha3.aar/78cef264daf3737101ac7afa500b9811/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha3] /Users/henryfernandez/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0-alpha3.aar/78cef264daf3737101ac7afa500b9811/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha3] /Users/henryfernandez/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0-alpha3.aar/0341c9a85d6dd65d94fbec1f0920289d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha3] /Users/henryfernandez/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0-alpha3.aar/0341c9a85d6dd65d94fbec1f0920289d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha3] /Users/henryfernandez/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0-alpha3.aar/26d71423da1a526decc4cf73f391a94f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha3] /Users/henryfernandez/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0-alpha3.aar/26d71423da1a526decc4cf73f391a94f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-alpha3] /Users/henryfernandez/.gradle/caches/transforms-1/files-1.1/loader-28.0.0-alpha3.aar/ef0e9702e957e97db4d9ee9cc872d7c5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-alpha3] /Users/henryfernandez/.gradle/caches/transforms-1/files-1.1/loader-28.0.0-alpha3.aar/ef0e9702e957e97db4d9ee9cc872d7c5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0-alpha3] /Users/henryfernandez/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0-alpha3.aar/e6666132c9c8c7992bf59def5b956636/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0-alpha3] /Users/henryfernandez/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0-alpha3.aar/e6666132c9c8c7992bf59def5b956636/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha3] /Users/henryfernandez/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0-alpha3.aar/a3bd1799b5b704747f641e8aa298e703/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha3] /Users/henryfernandez/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0-alpha3.aar/a3bd1799b5b704747f641e8aa298e703/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha3] /Users/henryfernandez/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0-alpha3.aar/aed6dba4ef5a472313051adeb0bb7000/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha3] /Users/henryfernandez/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0-alpha3.aar/aed6dba4ef5a472313051adeb0bb7000/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha3] /Users/henryfernandez/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0-alpha3.aar/ee0f092da4e95890cb83db73d7243e3f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha3] /Users/henryfernandez/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0-alpha3.aar/ee0f092da4e95890cb83db73d7243e3f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0-alpha3] /Users/henryfernandez/.gradle/caches/transforms-1/files-1.1/customview-28.0.0-alpha3.aar/fe995c4f18ab4d5ac43447dbbbd35a0d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0-alpha3] /Users/henryfernandez/.gradle/caches/transforms-1/files-1.1/customview-28.0.0-alpha3.aar/fe995c4f18ab4d5ac43447dbbbd35a0d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha3] /Users/henryfernandez/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0-alpha3.aar/56b5337d4fd569f00f84efc609ce958e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha3] /Users/henryfernandez/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0-alpha3.aar/56b5337d4fd569f00f84efc609ce958e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha3] /Users/henryfernandez/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0-alpha3.aar/6adc619f358a1fd354bf5c3ec8dd8ba9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha3] /Users/henryfernandez/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0-alpha3.aar/6adc619f358a1fd354bf5c3ec8dd8ba9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0-alpha3] /Users/henryfernandez/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-alpha3.aar/baba060afcaf4d520d4033fcdc1696e1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0-alpha3] /Users/henryfernandez/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-alpha3.aar/baba060afcaf4d520d4033fcdc1696e1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha3] /Users/henryfernandez/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0-alpha3.aar/47f8c045529892f14c7284f23173b3e1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha3] /Users/henryfernandez/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0-alpha3.aar/47f8c045529892f14c7284f23173b3e1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/henryfernandez/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/bd517c4ac7df85ed975e18e7aecd10db/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/henryfernandez/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/bd517c4ac7df85ed975e18e7aecd10db/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0-alpha3] /Users/henryfernandez/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-alpha3.aar/23ec74fa65a572d9d5a71007c467a103/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0-alpha3] /Users/henryfernandez/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-alpha3.aar/23ec74fa65a572d9d5a71007c467a103/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0-alpha3] /Users/henryfernandez/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0-alpha3.aar/7730c593ffbe5eb257e559dde327672a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0-alpha3] /Users/henryfernandez/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0-alpha3.aar/7730c593ffbe5eb257e559dde327672a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha3] /Users/henryfernandez/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0-alpha3.aar/1948fe6f9728cc92201e8d81a81b72a3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha3] /Users/henryfernandez/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0-alpha3.aar/1948fe6f9728cc92201e8d81a81b72a3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0-alpha3] /Users/henryfernandez/.gradle/caches/transforms-1/files-1.1/print-28.0.0-alpha3.aar/24286b4ec052fe60c7533d41231e086b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0-alpha3] /Users/henryfernandez/.gradle/caches/transforms-1/files-1.1/print-28.0.0-alpha3.aar/24286b4ec052fe60c7533d41231e086b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/henryfernandez/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/fc34d35bf45450861d8821a8126d7657/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/henryfernandez/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/fc34d35bf45450861d8821a8126d7657/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/henryfernandez/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/1f5a008b30e50797a1c2572dd32f0c8f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/henryfernandez/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/1f5a008b30e50797a1c2572dd32f0c8f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/henryfernandez/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/8ac8899de129ac06449954c19e58210b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/henryfernandez/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/8ac8899de129ac06449954c19e58210b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0-alpha3] /Users/henryfernandez/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0-alpha3.aar/b2a78a447f002913208d2d7672a4062d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0-alpha3] /Users/henryfernandez/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0-alpha3.aar/b2a78a447f002913208d2d7672a4062d/AndroidManifest.xml:20:5-44
+INJECTED from /Volumes/DD Interno/Android Java/Aplicacionembebida/app/src/main/AndroidManifest.xml
+INJECTED from /Volumes/DD Interno/Android Java/Aplicacionembebida/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Volumes/DD Interno/Android Java/Aplicacionembebida/app/src/main/AndroidManifest.xml
+		ADDED from /Volumes/DD Interno/Android Java/Aplicacionembebida/app/src/main/AndroidManifest.xml
+		INJECTED from /Volumes/DD Interno/Android Java/Aplicacionembebida/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Volumes/DD Interno/Android Java/Aplicacionembebida/app/src/main/AndroidManifest.xml
+		ADDED from /Volumes/DD Interno/Android Java/Aplicacionembebida/app/src/main/AndroidManifest.xml
+		INJECTED from /Volumes/DD Interno/Android Java/Aplicacionembebida/app/src/main/AndroidManifest.xml

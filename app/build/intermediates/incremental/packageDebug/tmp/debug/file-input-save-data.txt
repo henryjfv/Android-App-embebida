@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Tue Jul 17 08:26:06 COT 2018
+0.baseType=DIRECTORY
+0.base=/Volumes/DD Interno/Android Java/Aplicacionembebida/app/build/intermediates/transforms/dexMerger/debug/16
+0.path=classes.dex
+0.set=DEX
+count=1
